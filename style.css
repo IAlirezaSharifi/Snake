@@ -1,0 +1,26 @@
+/* CSS Start */
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-weight: bold;
+}
+
+body {
+  width: 100vw;
+  height: 100vh;
+  background: #167623;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: 0.3em solid #399fff;
+  border-radius: 1em;
+}
+
+canvas {
+  border: 0.5em solid #055317;
+  border-radius: 1em;
+}
+
+/* CSS End - ASH: AlirezaSharifi */
